@@ -3,5 +3,5 @@
 ## Technologies Used
 * React
 * YouTube Data API v3
-* HTML/CSS
+* HTML/CSS/React Bootstrap
 * JavaScript
